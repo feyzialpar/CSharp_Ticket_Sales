@@ -1,0 +1,56 @@
+c:\users\feyzi\documents\visual studio 2013\Projects\CSharp_BiletSatis\CSharp_BiletSatis\bin\Debug\CSharp_BiletSatis.exe.config
+c:\users\feyzi\documents\visual studio 2013\Projects\CSharp_BiletSatis\CSharp_BiletSatis\bin\Debug\CSharp_BiletSatis.exe
+c:\users\feyzi\documents\visual studio 2013\Projects\CSharp_BiletSatis\CSharp_BiletSatis\bin\Debug\CSharp_BiletSatis.pdb
+c:\users\feyzi\documents\visual studio 2013\Projects\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form1.resources
+c:\users\feyzi\documents\visual studio 2013\Projects\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Properties.Resources.resources
+c:\users\feyzi\documents\visual studio 2013\Projects\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.csproj.GenerateResource.Cache
+c:\users\feyzi\documents\visual studio 2013\Projects\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.exe
+c:\users\feyzi\documents\visual studio 2013\Projects\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.pdb
+c:\users\feyzi\documents\visual studio 2013\Projects\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.csprojResolveAssemblyReference.cache
+C:\Users\Feyzi\Documents\Visual Studio 2013\Projects\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Bilet_Islemleri.resources
+C:\Users\Feyzi\Documents\Visual Studio 2013\Projects\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Otobus_Islemleri.resources
+C:\Users\Feyzi\Documents\Visual Studio 2013\Projects\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Personel_Islemleri.resources
+C:\Users\Feyzi\Documents\Visual Studio 2013\Projects\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Sefer_Islemleri.resources
+C:\Users\Feyzi\Documents\Visual Studio 2013\Projects\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Guzergah_Islemleri.resources
+C:\Users\Feyzi\Documents\Visual Studio 2013\Projects\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form2.resources
+C:\Users\Feyzi\Desktop\Proje\CSharp_BiletSatis\CSharp_BiletSatis\bin\Debug\CSharp_BiletSatis.exe.config
+C:\Users\Feyzi\Desktop\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.exe
+C:\Users\Feyzi\Desktop\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.pdb
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\bin\Debug\CSharp_BiletSatis.exe.config
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.exe
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.pdb
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\bin\Debug\CSharp_BiletSatis.exe
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\bin\Debug\CSharp_BiletSatis.pdb
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.csprojResolveAssemblyReference.cache
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Bilet_Islemleri.resources
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form1.resources
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form2.resources
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form3.resources
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Guzergah_Islemleri.resources
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Otobus_Islemleri.resources
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Personel_Islemleri.resources
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Properties.Resources.resources
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Sefer_Islemleri.resources
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.csproj.GenerateResource.Cache
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form4.resources
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form5.resources
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form6.resources
+E:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form7.resources
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\bin\Debug\CSharp_BiletSatis.exe.config
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.exe
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.pdb
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.csprojResolveAssemblyReference.cache
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Bilet_Islemleri.resources
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form1.resources
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form2.resources
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form3.resources
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form4.resources
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form5.resources
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form6.resources
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Form7.resources
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Guzergah_Islemleri.resources
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Otobus_Islemleri.resources
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Personel_Islemleri.resources
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Properties.Resources.resources
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.Sefer_Islemleri.resources
+D:\Proje\CSharp_BiletSatis\CSharp_BiletSatis\obj\Debug\CSharp_BiletSatis.csproj.GenerateResource.Cache
